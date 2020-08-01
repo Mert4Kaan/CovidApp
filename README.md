@@ -4,7 +4,10 @@ During my stay at home during the quarantine procedure, which is applied worldwi
 
 # Support
 
-If you want to support, I drink your coffee. 😊 ☕
+You can contact me.😊 ☕
+
+Twitter : http://twitter.com/mertkaann0000
+Instagram : https://www.instagram.com/mertkaanx0/
 
 # Images From App
 
