@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid19App</string>
+    <string name="corona_hakkinda">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.</string>
+    <string name="sample_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="covid_detail">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people who get COVID-19 recover from mild to moderate symptoms and do not need special treatment.</string>
+    <string name="covid_19_extended">The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces. \n\nYou can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.</string>
+</resources>
