@@ -1,7 +1,6 @@
 # CovidApp
 
-The application I coded to inform people about Covid.
-
+This app is for informing people about covid and showing daily data.
 # Support
 
 You can contact me.😊 ☕
